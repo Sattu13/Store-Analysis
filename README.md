@@ -18,7 +18,7 @@ Top 5 States
 
 Age and Gender 
 
-Channels
+Channels.
 
 
 #Steps for this Project.
