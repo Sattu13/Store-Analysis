@@ -31,6 +31,9 @@ Channels.
 (5)Report and Insights.
 
 
+# To Access these Project Download the Raw File. 
+
+
 
 #Store Data Analysis Dashboard
 ![Store Data Analysis Dashboard](https://github.com/Sattu13/Store-Analysis/assets/91837451/217dbe35-8f74-4d58-b45d-44278906b122)
