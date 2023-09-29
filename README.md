@@ -5,18 +5,10 @@ Vrinda Store Wants to Create an Annual Sales Report for 2022. So that , Vrinda c
 
 #Steps for this Project.
 
- Data Cleaning.
-
- 
- Data Processing.
-
- 
- Data Analysis.
-
- 
- Data Visualization (Interactive Dashboard).
-
- 
+ Data Cleaning, 
+ Data Processing, 
+ Data Analysis,
+ Data Visualization (Interactive Dashboard),
  Report and Insights.
 
 
