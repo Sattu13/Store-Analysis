@@ -7,17 +7,11 @@ Vrinda Store Wants to Create an Annual Sales Report for 2022. So that , Vrinda c
 There are Seven Spreadsheet.
 
 Vrinda Store Report 2022,
-
 Order vs Sales,
-
 Men vs Women,
-
 Order Status,
-
 Top 5 States,
-
 Age and Gender ,
-
 Channels.
 
 
