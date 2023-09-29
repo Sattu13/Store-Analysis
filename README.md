@@ -19,15 +19,15 @@ Channels.
 
 #Steps for this Project.
 
- Data Cleaning, 
+(1) Data Cleaning, 
  
- Data Processing,
+(2)Data Processing,
  
- Data Analysis,
+(3)Data Analysis,
  
- Data Visualization (Interactive Dashboard),
+(4)Data Visualization (Interactive Dashboard),
  
- Report and Insights.
+(5)Report and Insights.
 
 
 
