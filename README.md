@@ -13,4 +13,5 @@ Vrinda Store Wants to Create an Annual Sales Report for 2022. So that , Vrinda c
 
 
 
-To Access this project download for github then open it.
+![Store Data Analysis Dashboard](https://github.com/Sattu13/Store-Analysis/assets/91837451/217dbe35-8f74-4d58-b45d-44278906b122)
+
