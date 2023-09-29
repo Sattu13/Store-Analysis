@@ -21,6 +21,8 @@ Age and Gender
 Channels.
 
 
+
+
 #Steps for this Project.
 
  Data Cleaning, 
@@ -32,6 +34,7 @@ Channels.
  Data Visualization (Interactive Dashboard),
  
  Report and Insights.
+
 
 
 #Store Data Analysis Dashboard
